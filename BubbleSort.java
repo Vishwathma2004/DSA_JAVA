@@ -1,3 +1,9 @@
+//complexity
+
+//Best Case :O(n)
+//Worst Case : O(n^2)
+//Average Case : O(n^2)
+
 public class BubbleSort {
     public static void main(String[] args) {
         int[] arr = {7,8,3,1,2};
