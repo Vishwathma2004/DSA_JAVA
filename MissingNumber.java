@@ -29,5 +29,5 @@ public class MissingNumber {
         arr[first] = arr[second];
         arr[second] = temp;
     }
-}
+} 
 
