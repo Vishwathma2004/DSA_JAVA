@@ -1,4 +1,3 @@
-package patternQuestion;
 public class pattern1{
     public static void main(String args[]){
        pattern11(4);
