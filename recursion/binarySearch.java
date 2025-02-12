@@ -14,6 +14,7 @@ public class binarySearch {
         int target = sc.nextInt();
         System.out.println("Element found at index:");
         System.out.print(search(arr, target, 0, n-1));
+        sc.close();
 
     }
     static int search(int[] arr,int target,int start,int end){

@@ -14,6 +14,7 @@ public class mergeSortInPlace {
         System.out.println("Merge sort in place: ");
         mergeSort(arr, 0, arr.length);
         System.out.println(Arrays.toString(arr));
+        sc.close();
     }
 
     static void mergeSort(int[] arr, int s, int e) {
