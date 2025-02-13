@@ -1,0 +1,149 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "NumberExample",
+            "request": "launch",
+            "mainClass": "NumberExample",
+            "projectName": "DSA_JAVA_f98e1a30"
+        },
+        {
+            "type": "java",
+            "name": "Stream",
+            "request": "launch",
+            "mainClass": "Stream",
+            "projectName": "DSA_JAVA_f98e1a30"
+        },
+        {
+            "type": "java",
+            "name": "SubSeqAscii",
+            "request": "launch",
+            "mainClass": "SubSeqAscii",
+            "projectName": "DSA_JAVA_f98e1a30"
+        },
+        {
+            "type": "java",
+            "name": "SubSequence",
+            "request": "launch",
+            "mainClass": "SubSequence",
+            "projectName": "DSA_JAVA_f98e1a30"
+        },
+        {
+            "type": "java",
+            "name": "SubSet",
+            "request": "launch",
+            "mainClass": "SubSet",
+            "projectName": "DSA_JAVA_f98e1a30"
+        },
+        {
+            "type": "java",
+            "name": "binarySearch",
+            "request": "launch",
+            "mainClass": "binarySearch",
+            "projectName": "DSA_JAVA_f98e1a30"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "DSA_JAVA_f98e1a30"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "DSA_JAVA_f98e1a30"
+        },
+        {
+            "type": "java",
+            "name": "mergeSortInPlace",
+            "request": "launch",
+            "mainClass": "mergeSortInPlace",
+            "projectName": "DSA_JAVA_f98e1a30"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "pattern1",
+            "projectName": "DSA_JAVA_f98e1a30"
+        },
+        {
+            "type": "java",
+            "name": "pattern2",
+            "request": "launch",
+            "mainClass": "pattern2",
+            "projectName": "DSA_JAVA_f98e1a30"
+        },
+        {
+            "type": "java",
+            "name": "pattern3",
+            "request": "launch",
+            "mainClass": "pattern3",
+            "projectName": "DSA_JAVA_f98e1a30"
+        },
+        {
+            "type": "java",
+            "name": "pattern4",
+            "request": "launch",
+            "mainClass": "pattern4",
+            "projectName": "DSA_JAVA_f98e1a30"
+        },
+        {
+            "type": "java",
+            "name": "pattern5",
+            "request": "launch",
+            "mainClass": "pattern5",
+            "projectName": "DSA_JAVA_f98e1a30"
+        },
+        {
+            "type": "java",
+            "name": "pattern6",
+            "request": "launch",
+            "mainClass": "pattern6",
+            "projectName": "DSA_JAVA_f98e1a30"
+        },
+        {
+            "type": "java",
+            "name": "pattern7",
+            "request": "launch",
+            "mainClass": "pattern7",
+            "projectName": "DSA_JAVA_f98e1a30"
+        },
+        {
+            "type": "java",
+            "name": "pattern8",
+            "request": "launch",
+            "mainClass": "pattern8",
+            "projectName": "DSA_JAVA_f98e1a30"
+        },
+        {
+            "type": "java",
+            "name": "recursionExpain",
+            "request": "launch",
+            "mainClass": "recursionExpain",
+            "projectName": "DSA_JAVA_f98e1a30"
+        },
+        {
+            "type": "java",
+            "name": "subseqArr",
+            "request": "launch",
+            "mainClass": "subseqArr",
+            "projectName": "DSA_JAVA_f98e1a30"
+        }
+    ]
+}
