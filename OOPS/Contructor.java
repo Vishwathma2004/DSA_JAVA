@@ -10,6 +10,10 @@ public class Contructor {
         System.out.println();
         random.greeting();
         System.out.println(random.name);
+        Student one = new Student();
+        Student two = one;
+        one.name ="Something";
+        System.out.println(two.name); 
         
     }
 }
@@ -40,4 +44,8 @@ class Student{
         name = namee;
         marks = markss;
     }
+    //call constructor from another constructor
+    // Student(){
+    //     this(45,"abc",88.8f);
+    // }
 }
