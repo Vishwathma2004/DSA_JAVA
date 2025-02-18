@@ -1,23 +1,33 @@
-package OOPS;
-
 public class Contructor {
     public static void main(String[] args) {
-        Student xyz = new Student();
-        System.out.println(xyz.name);
-        System.out.println(xyz.rno);
-        System.out.println(xyz.marks);
+        Student abcd = new Student(100,"Alice",90.1f);
+        System.out.println();
+        abcd.greeting();
+        abcd.changeName("Bob");
+        System.out.println();
+        abcd.greeting();
+        
     }
 }
 class Student{
     int rno;
     String name;
     float marks;
-    //we need a way to add the values of the above
-    //properties object by object
-    //we need one object to access every object
+
+    void greeting(){
+        System.out.println("Hello My name is "+name);
+    }
     Student(){
-        this.name = "apple";
-        this.rno = 100;
-        this.marks = 99.1f;
+        this.rno = 45;
+        this.name = "abc";
+        this.marks = 88.8f;
+    }
+    void changeName(String newName){
+        name = newName;
+    }
+    Student(int rollno,String namee,float markss){
+        rno = rollno;
+        name = namee;
+        marks = markss;
     }
 }
