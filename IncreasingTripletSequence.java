@@ -10,7 +10,7 @@ public class IncreasingTripletSequence {
         for (int i = 0; i < n; i++) {
             arr[i] = sc.nextInt();
         }
-        triplet(arr);
+        System.out.println(triplet(arr));
         sc.close();
     }   
     public static boolean triplet(int[] arr){
