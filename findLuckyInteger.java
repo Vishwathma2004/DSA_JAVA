@@ -15,6 +15,7 @@ public class findLuckyInteger {
         }
         System.out.println("The Lucky Integer is");
         System.out.println(luckyInteger(arr));
+        sc.close();
     }
     public static int luckyInteger(int[] arr){
         int[] freq = new int[501];
